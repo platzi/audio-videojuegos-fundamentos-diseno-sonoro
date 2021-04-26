@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWProject" id="{922950be-f20f-4ac2-94a9-8d1031ad0564}">
+		<property name="assetPath">
+			<value>clase_integracion_reaper_fmod.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>C:/Users/User/Desktop/Platzi Diseño Sonoro/Reaper/clase_integracion_reaper_fmod.rpp</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8a6c26b-7b00-4eaf-ad73-34cc7aefc274}</destination>
+		</relationship>
+	</object>
+</objects>
